@@ -49,14 +49,27 @@ div img{
 }
 
 
-
 .Sect-1-Button{
     width: 100px;;
 }
 
-.Section-2{
-    border: 2px solid black;
+
+
+.Boxes{
+    display: flex;
+    padding: 50px;
 }
+
+.box-1 img , .box-2 img, .box-3 img , .box-4 img{
+    border: 2px solid rgb(34, 90, 255);
+    padding-top: 20px;
+    margin: 10px;
+    padding: 30px;
+    padding-top: 70px;
+}
+
+
+
 
 .Section-3{
     border: 2px solid black;
