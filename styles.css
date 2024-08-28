@@ -1,5 +1,8 @@
 body{
     text-align: center;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px;
 }
 
 .NavBar{
@@ -50,8 +53,13 @@ div img{
 
 
 .Sect-1-Button{
-    width: 100px;;
+    width: 100px;
+    background-color: rgb(75, 121, 214);
+    border: 2px solid rgb(75, 121, 214);
+    color: white;
 }
+
+
 
 .Section-2{
     margin-bottom: 20px;
@@ -91,7 +99,38 @@ blockquote{
     font-size: 22px;
 }
 
-
 .Section-4{
-    border: 2px solid black;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.SignBox{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex: 0.75;
+    line-height: 0px;
+    padding: 20px;
+    background-color: rgb(75, 121, 214);
+    color: white;
+}
+
+.Left-Side{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    flex: 0.25;
+    background-color: rgb(75, 121, 214);
+    color: white;
+}
+
+.sect-4-button{
+    width: 100px;
+    background-color: rgb(75, 121, 214);
+    color: white;
+    border: 1px solid white;
 }
