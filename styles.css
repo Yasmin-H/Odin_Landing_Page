@@ -2,7 +2,6 @@ body{
     text-align: center;
     padding: 0;
     margin: 0;
-    margin-bottom: 20px;
 }
 
 .NavBar{
@@ -133,4 +132,10 @@ blockquote{
     background-color: rgb(75, 121, 214);
     color: white;
     border: 1px solid white;
+}
+
+footer{
+    background-color: rgb(37, 38, 48);
+    color: white;
+    padding: 5px;
 }
