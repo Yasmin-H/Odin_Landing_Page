@@ -53,6 +53,10 @@ div img{
     width: 100px;;
 }
 
+.Section-2{
+    margin-bottom: 20px;
+}
+
 
 
 .Boxes{
@@ -69,11 +73,24 @@ div img{
 }
 
 
-
-
 .Section-3{
-    border: 2px solid black;
+   background-color: rgb(227, 225, 225);
+   padding: 70px;
 }
+
+
+
+strong{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    padding-top: 20px;
+}
+
+blockquote{
+    font-size: 22px;
+}
+
 
 .Section-4{
     border: 2px solid black;
