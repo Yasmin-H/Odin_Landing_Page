@@ -17,7 +17,7 @@ The Design :
 
 My Design : 
 
-![My Design, LandingPage](./images/My_Design%201.jpeg)
+![My Design, LandingPage](./images/My_Design%202.jpeg)
 
 
 Pretty close right ! 
