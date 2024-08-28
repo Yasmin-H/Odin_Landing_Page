@@ -3,10 +3,17 @@ body{
 }
 
 .NavBar{
-    border: 2px solid black;
+ 
     padding: 25px;
     display: flex;
+    justify-content: space-around;
 }
+
+div img{
+    flex-grow: 0.75;
+
+}
+
 
 
 
