@@ -7,6 +7,12 @@ body{
     padding: 25px;
     display: flex;
     justify-content: space-around;
+    background-color: rgb(37, 38, 48);
+    color: white;
+}
+
+a{
+    color: white;
 }
 
 div img{
@@ -14,11 +20,38 @@ div img{
 
 }
 
-
-
-
 .Section-1{
-    border: 2px solid black;
+    display: flex;
+    padding: 50px;
+    background-color: rgb(37, 38, 48);
+}
+
+.Container1{
+   
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    padding: 25px;
+    color: white;
+  
+
+}
+
+.Container2{
+    background-color: rgb(170, 163, 163);
+    display: flex;
+    margin: auto;
+    padding: 75px;
+    color: white;
+
+  
+}
+
+
+
+.Sect-1-Button{
+    width: 100px;;
 }
 
 .Section-2{
