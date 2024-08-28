@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+.NavBar{
+    border: 2px solid black;
+    padding: 25px;
+    display: flex;
+}
+
+
+
+.Section-1{
+    border: 2px solid black;
+}
+
+.Section-2{
+    border: 2px solid black;
+}
+
+.Section-3{
+    border: 2px solid black;
+}
+
+.Section-4{
+    border: 2px solid black;
+}
