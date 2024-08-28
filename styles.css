@@ -22,6 +22,8 @@ div img{
 
 }
 
+
+
 .Section-1{
     display: flex;
     padding: 50px;
@@ -57,6 +59,7 @@ div img{
     border: 2px solid rgb(75, 121, 214);
     color: white;
 }
+
 
 
 
